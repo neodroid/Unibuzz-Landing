@@ -26,7 +26,7 @@ export const CommunityGuidelines = () => (
       <Center 
         backgroundColor={"#988FFF"}
         w={[
-          '95vw', // 0-30em
+          '80vw', // 0-30em
           '80vw', // 30em-48em
           '80vw', // 48em-62em
           '70vw', // 62em+
@@ -42,7 +42,7 @@ export const CommunityGuidelines = () => (
        
        <Box
        w={[
-        '95vw', // 0-30em
+        '80vw', // 0-30em
         '80vw', // 30em-48em
         '80vw', // 48em-62em
         '70vw', // 62em+
