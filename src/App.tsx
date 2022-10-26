@@ -18,6 +18,7 @@ import { Logo } from "./Logo"
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import CommunityGuidelines from "./pages/Community-Guidelines"
+import Privacy from "./pages/Privacy"
 import Home from "./pages/Home"
 
 
@@ -26,6 +27,7 @@ export const App = () => (
   <Routes>
     <Route path = "/" element = {<Home/>} />
     <Route path = "/Community-Guidelines" element = {<CommunityGuidelines/>} />
+    <Route path = "/Privacy-and-Safety" element = {<Privacy/>} />
   </Routes>
   </Router>
 )

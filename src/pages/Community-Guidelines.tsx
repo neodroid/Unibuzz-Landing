@@ -59,28 +59,28 @@ export const CommunityGuidelines = () => (
           Do's
         </Heading>
         <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={10}>
-        ◉ Use appropriate language in hive or in messages! <br/>
-        ◉ Share your stories, thoughts, and struggles in Hive or <br/>
-        ◉ Interact with other college students in Hive <br/>
-        ◉ Become friends with the people in this community! <br/>
-        ◉ Message someone if you want follow-up conversations! <br/>
-        ◉ Be kind to everybody in Hive or in messages   <br/>
+        • Use appropriate language in hive or in messages! <br/>
+        • Share your stories, thoughts, and struggles in Hive or <br/>
+        • Interact with other college students in Hive <br/>
+        • Become friends with the people in this community! <br/>
+        • Message someone if you want follow-up conversations! <br/>
+        • Be kind to everybody in Hive or in messages   <br/>
         </Text>
         <Heading size='md' textAlign={"left"} textColor="#FFFFFF" pt={10}>
           Dont's
         </Heading>
         <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={10}>
-        ◉ Use inappropriate, harmful, and hateful language in hive or in messages! <br/>
-        ◉ Do hate speech, harrassment, bullying, discrimination or other targeted attacks. Personal attacks, 
+        • Use inappropriate, harmful, and hateful language in hive or in messages! <br/>
+        • Do hate speech, harrassment, bullying, discrimination or other targeted attacks. Personal attacks, 
         trolling and abuse will not be tolerated. This includes hatred toward vulnerable groups of people, 
         such as by race, sexual orientation, sex, gender identity, individuals with disabilities, and weight. <br/>
-        ◉ Sexually harrass someone. This refers to the Indonesian law regulating about sexual violence, “UU TPKS” <br/>
-        ◉ Glorify self-injury. Please seek professional help if you need it. <br/>
-        ◉ Spam or self-promote. <br/>
-        ◉ Speard false information. <br/>
-        ◉ Dox! Do not share private personal information. <br/>
-        ◉ Engage in illegal activites. <br/>
-        ◉ Use threats. <br/>
+        • Sexually harrass someone. This refers to the Indonesian law regulating about sexual violence, “UU TPKS” <br/>
+        • Glorify self-injury. Please seek professional help if you need it. <br/>
+        • Spam or self-promote. <br/>
+        • Speard false information. <br/>
+        • Dox! Do not share private personal information. <br/>
+        • Engage in illegal activites. <br/>
+        • Use threats. <br/>
         </Text>
         <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={10}>
         The moderating staff puts a lot of effort into maintaining this Support Community for sharing stories and guidance, and we ask for your help. By selecting the "Report as Objectionable?" link in the bottom-right corner of a post, you can report any post or item you believe to be unsuitable. The moderators will examine each concern and take any necessary further action. Please contact our community moderators for more assistance with the Support Community by sending an email to unibuzz.app@gmail.com .
