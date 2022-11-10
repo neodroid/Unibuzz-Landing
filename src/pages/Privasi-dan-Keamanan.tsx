@@ -33,7 +33,7 @@ export const PrivasiKeamanan = () => (
             '80px', // 62em+
           ]}
           borderRadius={25}
-        ><Heading as='h1' size='lg' color={"#222222"} >Privasi dan Keamanan</Heading></Center>
+        ><Heading as='h1' size='md' color={"#222222"} >Privasi dan Keamanan</Heading></Center>
 
         <Box
           w={[

@@ -34,7 +34,7 @@ export const HubungiKami = () => (
                         '80px', // 62em+
                     ]}
                     borderRadius={25}
-                ><Heading as='h1' size='lg' color={"#222222"} >Hubungi Kami</Heading></Center>
+                ><Heading as='h1' size='md' color={"#222222"} >Hubungi Kami</Heading></Center>
 
                 <Box
                     w={[
@@ -47,24 +47,25 @@ export const HubungiKami = () => (
                     <Heading size='md' textAlign={"left"} textColor="#FFFFFF" pt={10}>
                         Hubungi kami di:
                     </Heading>
-                    <Flex>
-                        <Box pr="10"><Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={10}>
-                            Email <br />
-                            Instagram<br />
-                            Linkedin<br />
-                        </Text></Box>
-                        <Box><Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={10}>
-                            unibuzz.app@gmail.com <br />
-                            <Link
-                                target={"_blank"}
-                                href="https://www.instagram.com/unibuzz.app/"
-                            >
-                                @unibuzz.app <br />
-                            </Link>
 
-                            linkedin/unibuzz.app <br />
-                        </Text></Box>
-                    </Flex>
+                    <Heading size='md' textAlign={"left"} textColor="#FFFFFF" pt={10}>
+                    Email
+                    </Heading>
+                    <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={2}>
+                    unibuzz.app@gmail.com
+                    </Text>
+                    <Heading size='md' textAlign={"left"} textColor="#FFFFFF" pt={4}>
+                    Instagram
+                    </Heading>
+                    <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={2}>
+                    @unibuzz.app
+                    </Text>
+                    <Heading size='md' textAlign={"left"} textColor="#FFFFFF" pt={4}>
+                    Linkedin
+                    </Heading>
+                    <Text textAlign={"left"} textColor="#FFFFFF" size='md' pt={2}>
+                    unibuzz.app
+                    </Text>
                 </Box>
 
                 {/* FOOTER */}
