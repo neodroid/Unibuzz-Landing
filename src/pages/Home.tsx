@@ -50,7 +50,6 @@ export const Home = () => (
           </Text>
           <Link
             color={"#F2D96F"}
-            // href="https://twitter.com/kevinahmad"
             fontSize="2xl"
             target="_blank"
             rel="noopener noreferrer"
