@@ -19,7 +19,7 @@ export const CommunityGuidelines = () => (
         <Box textAlign="center" fontSize="xl" backgroundColor={"#474747"} >
             <Grid minH="100vh" p={10} justifyItems="center">
                 <Center
-                    backgroundColor={"#988FFF"}
+                    backgroundColor={"#FFEA8F"}
                     w={[
                         '80vw', // 0-30em
                         '80vw', // 30em-48em
