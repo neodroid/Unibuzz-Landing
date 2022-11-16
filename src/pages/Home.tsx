@@ -32,6 +32,36 @@ export const Home = () => (
         <Heading as='h1' size='lg' pb={5} color={"#2B2B2B"} > Anonymous Campus Community,</Heading>
         <Heading as='h1' size='lg' pb={5} color={"#2B2B2B"} > Coming real soon to your campus!</Heading>
         <VStack >
+
+        <Link
+            color="transparent"
+            href="https://apps.apple.com/id/app/unibuzz-campus-community/id6443903058"
+            fontSize="2xl"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Center  p={5}><Box maxW={[
+      '300', // 0-30em
+      '350', // 30em-48em
+      '350', // 48em-62em
+      '350', // 62em+
+    ]}><Image src='appstore.png' alt='Dan Abramov' /></Box></Center>
+          </Link>
+
+          <Link
+            color="transparent"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScAzilOtVOe2ES-XXvVihUfq3ynge5RwRegE0XoBAKCkiZdAQ/viewform"
+            fontSize="2xl"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Center  p={5}><Box maxW={[
+      '300', // 0-30em
+      '350', // 30em-48em
+      '400', // 48em-62em
+      '500', // 62em+
+    ]}><Image src='addMyUni.png' alt='Dan Abramov' /></Box></Center>
+          </Link>
         
 <Box > <Image maxW={[
       '250', // 0-30em
