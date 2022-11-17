@@ -25,6 +25,8 @@ import Kontak from "./pages/Hubungi-Kami"
 import Panduan from "./pages/Panduan-Komunitas"
 import Privasi from "./pages/Privasi-dan-Keamanan"
 import Tambah from "./pages/Tambah-Universitas"
+import Download from "./pages/Download"
+
 
 export const App = () => (
   <Router>
@@ -37,6 +39,7 @@ export const App = () => (
       <Route path="/Panduan-Komunitas" element={<Panduan />} />
       <Route path="/Privasi-dan-Keamanan" element={<Privasi />} />
       <Route path='/tambah-universitas' element={<Tambah/>}/>
+      <Route path='/download' element={<Download/>}/>
     </Routes>
   </Router>
 )
